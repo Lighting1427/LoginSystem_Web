@@ -1,4 +1,4 @@
-# Solidithai (FastAPI + React + PostgreSQL)
+# Project (FastAPI + React + PostgreSQL)
 
 ## 1. คำแนะนำในการติดตั้ง
 
